@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+
+#card {
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    padding: 2em;
+    border-radius: 0.7em;
+}
+
+#button {
+    background-color: whitesmoke;
+    border-color: wheat;
+}
+
+#display {
+    height: 40%;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+#controls {
+    display: block;
+    padding: 2em;
+    background-color: oldlace;
+    border-radius: 0.5em;
+    text-align: center;
+}
